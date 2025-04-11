@@ -20,7 +20,7 @@ Each project is placed in its own folder to keep things clean and organized.
 
 2. **Navigate to the project folder you're interested in:**
 
-   cd "Main projects/<project-folder-name>"
+   cd "<project-folder-name>"
 
 3. **Run the Python script:**
 
